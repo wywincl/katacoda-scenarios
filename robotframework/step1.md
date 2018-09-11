@@ -8,4 +8,4 @@ First, We should use **pip** to install robotframework library
 
 Secend, make sure we have installed successfully, we use:
 
-`robot --verion`{{execute}}
+`robot --version`{{execute}}
